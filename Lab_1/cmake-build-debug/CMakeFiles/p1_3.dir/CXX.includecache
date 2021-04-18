@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/This/Desktop/Facultate/AN_II/POO/Lab_1/cmake-build-debug/p1_3.cpp
+cstdio
+-
+vector
+-
+
