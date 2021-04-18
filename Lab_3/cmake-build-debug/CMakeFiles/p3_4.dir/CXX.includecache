@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/This/Desktop/Facultate/AN_II/POO/Lab_3/p3_4.cpp
+iostream
+-
+vector
+-
+iomanip
+-
+string
+-
+cmath
+-
+algorithm
+-
+
