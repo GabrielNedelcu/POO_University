@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/This/Desktop/Facultate/AN_II/POO/lab_5/main.cpp
+iostream
+-
+vector
+-
+string
+-
+sstream
+-
+map
+-
+bits/unique_ptr.h
+-
+iomanip
+-
+
