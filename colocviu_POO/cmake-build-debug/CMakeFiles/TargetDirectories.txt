@@ -1,0 +1,3 @@
+C:/Users/This/Desktop/Facultate/AN_II/POO/colocviu_POO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/This/Desktop/Facultate/AN_II/POO/colocviu_POO/cmake-build-debug/CMakeFiles/colocviu_POO.dir
+C:/Users/This/Desktop/Facultate/AN_II/POO/colocviu_POO/cmake-build-debug/CMakeFiles/rebuild_cache.dir

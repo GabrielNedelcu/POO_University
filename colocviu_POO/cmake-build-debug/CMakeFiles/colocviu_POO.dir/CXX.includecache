@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/This/Desktop/Facultate/AN_II/POO/colocviu_POO/main.cpp
+iostream
+-
+vector
+-
+string
+-
+set
+-
+map
+-
+unordered_map
+-
+algorithm
+-
+
