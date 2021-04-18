@@ -1,0 +1,3 @@
+C:/Users/This/Desktop/Facultate/AN_II/POO/tema_2/cmake-build-debug/CMakeFiles/tema_2.dir
+C:/Users/This/Desktop/Facultate/AN_II/POO/tema_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/This/Desktop/Facultate/AN_II/POO/tema_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
