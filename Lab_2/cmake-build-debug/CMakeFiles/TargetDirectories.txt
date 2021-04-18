@@ -1,0 +1,4 @@
+C:/Users/This/Desktop/Facultate/AN_II/POO/Lab_2/cmake-build-debug/CMakeFiles/p2_3.dir
+C:/Users/This/Desktop/Facultate/AN_II/POO/Lab_2/cmake-build-debug/CMakeFiles/p2_4.dir
+C:/Users/This/Desktop/Facultate/AN_II/POO/Lab_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/This/Desktop/Facultate/AN_II/POO/Lab_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
